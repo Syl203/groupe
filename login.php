@@ -20,7 +20,7 @@ if(isset($_SESSION["connecte"])){
 <body>
 <div class="container">
     <div class="row">
-        <h1>CONNEXION</h1>
+        <h1>CONNEXION Admin</h1>
         <hr>
         <form action="" method="post">
             <label for="email">Votre email :</label><br>
