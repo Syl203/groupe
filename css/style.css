@@ -1,0 +1,23 @@
+body{
+    background-color: #D5D5D5;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.row{
+    margin: 0px auto;
+    width: 380px;
+    min-height: 280px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    padding: 15px;
+}
+.row h1{
+    padding : 0px;
+    margin : 0;
+    color: darkred;
+    font-weight: 400;
+}
+input{
+    width : 300px;
+    height : 22px;
+}
